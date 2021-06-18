@@ -1,6 +1,5 @@
 # senior-php
 高级PHP架构和知识体系
-![](./images/senior_php.png '你好')
 # PHP基础编程及内核分析
 # js基础及进阶
 # swoole&easyswoole
@@ -11,3 +10,4 @@
 # linux基础命令及部署
 # 熟练golang
 # composer
+学习总结中,不要慌......
